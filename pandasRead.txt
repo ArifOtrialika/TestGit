@@ -1,0 +1,3 @@
+#Import file csv/xls to pandas
+df = pd.read_csv(URL)
+df = pd.read_excel(URL)
